@@ -1,5 +1,9 @@
 # Flutter Rick and Morty App with Riverpod
 
+<p align="center">
+  <img src="https://i.imgur.com/RESIM_ID.png" width="900" alt="Rick and Morty App Preview">
+</p>
+
 Bu proje, Flutter Riverpod serimin 4. videosunda geliştirdiğimiz örnek uygulamadır.
 
 Rick and Morty API kullanılarak karakterler listelenmekte ve seçilen karakterin detay bilgileri gösterilmektedir.
