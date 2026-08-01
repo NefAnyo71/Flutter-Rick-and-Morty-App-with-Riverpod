@@ -1,17 +1,34 @@
-# rickandmortyapp
+# Flutter Rick and Morty App with Riverpod
 
-A new Flutter project.
+Bu proje, Flutter Riverpod serimin 4. videosunda geliştirdiğimiz örnek uygulamadır.
 
-## Getting Started
+Rick and Morty API kullanılarak karakterler listelenmekte ve seçilen karakterin detay bilgileri gösterilmektedir.
 
-This project is a starting point for a Flutter application.
+## Kullanılan Teknolojiler
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Riverpod
+- Dio
+- REST API
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Öğrendiklerimiz
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ProviderScope kullanımı
+- Dio ile API isteği
+- FutureProvider
+- JSON Model oluşturma
+- API'den gelen verileri listeleme
+- Detay sayfasına veri gönderme
+
+## API
+
+https://rickandmortyapi.com/
+
+## Video
+
+Bu projenin yapım aşamalarını aşağıdaki videodan izleyebilirsiniz.
+
+[![YouTube](https://img.shields.io/badge/YouTube-İzle-red?logo=youtube)](https://www.youtube.com/watch?v=hp7MYXoMQ1c)
+
+https://www.youtube.com/watch?v=hp7MYXoMQ1c
